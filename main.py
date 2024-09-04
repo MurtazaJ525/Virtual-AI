@@ -8,7 +8,7 @@ import requests  # For making HTTP requests
 from sites import sites, apps, songs  # Custom module containing lists of sites, apps, and songs
 
 # API key for News API
-newsapi = "8d979cddb53c4af78977218e19ab40d5"
+newsapi = "Your News api key"
 
 def speak(text):
     """
